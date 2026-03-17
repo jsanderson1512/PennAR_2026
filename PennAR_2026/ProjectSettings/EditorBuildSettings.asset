@@ -5,9 +5,18 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/XRF_Scenes/PennAR_2026 BASE FILE (save-as this scene).unity
     guid: 109ca10ec1aeb344c9d27c6cadd6a4ac
+  - enabled: 0
+    path: Assets/STUDENT_Scenes/My Special Assignment 03 File.unity
+    guid: 61858b18d91d5da4089b72b33592908f
+  - enabled: 0
+    path: Assets/XRF_Scenes/PennAR_2026 Table Example.unity
+    guid: 6137500e713402644b6df68a14cab125
+  - enabled: 1
+    path: Assets/STUDENT_Scenes/In Class Interactions.unity
+    guid: 0aa5ceebfbb07024a81efe1cff5e795d
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 4fc5dac4441ee974198a9a5a125b1062,
       type: 2}
