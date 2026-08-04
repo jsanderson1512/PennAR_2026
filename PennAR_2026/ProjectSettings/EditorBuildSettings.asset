@@ -14,9 +14,18 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/XRF_Scenes/PennAR_2026 Table Example.unity
     guid: 6137500e713402644b6df68a14cab125
-  - enabled: 1
+  - enabled: 0
     path: Assets/STUDENT_Scenes/In Class Interactions.unity
     guid: 0aa5ceebfbb07024a81efe1cff5e795d
+  - enabled: 0
+    path: Assets/STUDENT_Scenes/Assign03YY.unity
+    guid: c1af663757a6e3f4d892c3e141cb9a45
+  - enabled: 0
+    path: Assets/STUDENT_Scenes/Puzzle Solving Mechanic.unity
+    guid: 1f932985a3a804948a7433b9718b7d6f
+  - enabled: 1
+    path: Assets/STUDENT_Scenes/Gravity Changer.unity
+    guid: 8e14636524801df47a637f964879f2b6
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 4fc5dac4441ee974198a9a5a125b1062,
       type: 2}
